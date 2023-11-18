@@ -1,3 +1,14 @@
+Application Built using : 
+NextJS
+Tailwind CSS
+React Icons
+
+used "extreme-ip-lookup" to get Geo-Location Info of the user
+
+used Google Developer REST API to fetch search queries
+
+"Mobile Responsive Web Application"
+
 <img width="960" alt="sc1" src="https://github.com/akinGC/google_clone/assets/95466685/e0e4d632-2d90-43d8-8736-8b67633e7003">
 
 ![sc2](https://github.com/akinGC/google_clone/assets/95466685/3e99df6a-bc98-48c7-ae06-c038db05acac)
